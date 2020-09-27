@@ -8,7 +8,7 @@ public class CarGame
 {   
     int carSpeed1 = 0;
     int carSpeed2 = 0;
-    private JButton enterB = new JButton("Enter top speed");
+    private JButton enterB = new JButton(" Enter top speed");
     private JButton quitB = new JButton("Quit");
     private JTextField speedField1 = new JTextField(5);
     private JTextField speedField2 = new JTextField(5);
